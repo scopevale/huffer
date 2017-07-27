@@ -20,6 +20,8 @@
     "grunt-open": "~0.2.0",
     "grunt-ember-templates": "~0.4.7",
     "grunt-stitch-extra": "~0.4.3",
-    "mocha-phantomjs": "~2.0.1"
+    "mocha-phantomjs": "~2.0.1",
+    "gulp-tap": "~0.1.1",
+    "gulp": "~3.8.6"
   }
 }
